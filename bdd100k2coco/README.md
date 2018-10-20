@@ -1,5 +1,5 @@
-use python convert_to_coco_format.py as follows:
-usage: `convert_to_coco_format.py [-h] [--src SRC_PATH] [--dst DST_PATH] [--dir IM_DIR]`
+Use python convert_to_coco_format.py as follows:
+ `convert_to_coco_format.py [-h] [--src SRC_PATH] [--dst DST_PATH] [--dir IM_DIR]`
 
 convert the file to coco format
 
